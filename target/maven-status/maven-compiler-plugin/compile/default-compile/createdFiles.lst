@@ -1,2 +1,4 @@
+com/testapp/postgres/StudentRepository.class
 com/testapp/postgres/Student.class
 com/testapp/postgres/PostgresApplication.class
+com/testapp/postgres/StudentController.class
