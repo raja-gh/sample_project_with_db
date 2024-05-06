@@ -8,3 +8,6 @@ ENV POSTGRES_PASSWORD=girmiti01
 
 # Expose the default PostgreSQL port
 EXPOSE 5432
+
+# Add volume
+VOLUME /var/lib/postgresql/data
