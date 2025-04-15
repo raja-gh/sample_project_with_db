@@ -18,3 +18,4 @@ services:
       - "8081:8051"
     depends_on:
       - db
+      
